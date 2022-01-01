@@ -1,0 +1,9 @@
+[package]
+name = "coviddate"
+version = "2020.3.670"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = "0.4"
